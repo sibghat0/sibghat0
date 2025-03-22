@@ -25,6 +25,9 @@
 
 - ⚡ Fun fact **I think displine and consistency is the key to successs**
 
+---
+### 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/sibghat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sibghat" height="30" width="40" /></a>
@@ -35,6 +38,9 @@
 <a href="https://www.hackerrank.com/ssibghatkkhan81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ssibghatkkhan81" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mortalloard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mortalloard" height="30" width="40" /></a>
 </p>
+
+---
+### 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,14 +69,20 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
+---
+### 
 <div align="center">
+  <h3 align="left">Github Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=sibghat0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibghat0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
+---
 ###
 
-<br clear="both">
+<h3>Github Graph</h3>
 
 <img src="https://raw.githubusercontent.com/sibghat0/sibghat0/output/snake.svg" alt="Snake animation" />
 
