@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Flow-Creater**
 
-- 🌱 I’m currently learning **React Native, NestJS(NodeJS Framework)**
+- 🌱 I’m currently learning **React Native
 
 - 👯 I’m looking to collaborate on **Exicitng Projects**
 
